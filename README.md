@@ -1,5 +1,5 @@
-# Youth Policy Collective | Home
-a static website designed for the Youth Policy Collective. commissioned by The Orange Yak Co.
+# Reed Debate Club | Home
+a static website designed for the Reed Debate Club. commissioned by The Orange Yak Co.
 
 ## Tools Used
 1. HTML, CSS
@@ -7,4 +7,4 @@ a static website designed for the Youth Policy Collective. commissioned by The O
 3. Formspree (for form requests)
 
 ## Blog
-Links to [blog.ypc](https://blog.youthpolicycollective.com). Dynamic blog built by @paramkpr with Django and Bootstrap.
+Links to [blog.reed](https://blog..com). Dynamic blog built by me with Django and Bootstrap.
